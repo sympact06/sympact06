@@ -1,16 +1,26 @@
-### Hi there 👋
+# Olivier (Sympact06)
 
-<!--
-**sympact06/sympact06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Olivier, better known in the digital realm as **Sympact06**. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a multifaceted tech enthusiast with an array of skills that range from programming to design. My journey started off as a curious teenager, diving deep into the realm of cheats, and I've since evolved into a professional with a penchant for ethical hacking and software development. 
+
+🔐 **Certified Ethical Hacker by Cisco** - You can view my other certifications [here](https://learningnetwork.cisco.com/s/profile/0056e00000EK10v).
+
+## What I Do
+
+- 🎨 **Adobe Photoshop**: Whether it's creating mesmerizing graphics or photo editing, I have a flair for making visuals come alive.
+  
+- 💻 **Programming**: Proficient in C# and always keen on building robust applications that matter.
+  
+- 🌐 **Web Development**: Adept in PHP native apps with PDO. I believe in creating dynamic, secure, and scalable web solutions.
+
+- 🕹 **Past Experience**: Developed cheats during my teen years. While I've grown past that phase, it has immensely shaped my understanding of software behavior and potential vulnerabilities.
+
+## Let's Connect
+
+Feel free to reach out to me for collaborations, discussions, or just a casual chat about the tech world. Always happy to connect with fellow tech enthusiasts!
+
+- [![GitHub followers](https://img.shields.io/github/followers/Sympact06?label=Follow&style=social)](https://github.com/Sympact06)
+
