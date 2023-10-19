@@ -6,7 +6,7 @@ Hello there! 👋 I'm Olivier, better known in the digital realm as **Sympact06*
 
 I am a multifaceted tech enthusiast with an array of skills that range from programming to design. My journey started off as a curious teenager, diving deep into the realm of cheats, and I've since evolved into a (semi)professional with a penchant for ethical hacking and software development. 
 
-🔐 **Certified Ethical Hacker by Cisco** - You can view my other certifications [here](https://learningnetwork.cisco.com/s/profile/0056e00000EK10v).
+🔐 **Certified Ethical Hacker by Cisco** - You can view my other certifications [here](https://www.credly.com/users/olivier-flentge/).
 
 ## What I Do
 
