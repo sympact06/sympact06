@@ -22,5 +22,6 @@ I am a multifaceted tech enthusiast with an array of skills that range from prog
 
 Feel free to reach out to me for collaborations, discussions, or just a casual chat about the tech world. Always happy to connect with fellow tech enthusiasts!
 
-- [![GitHub followers](https://img.shields.io/github/followers/Sympact06?label=Follow&style=social)](https://github.com/Sympact06)
+- ![GitHub followers](https://img.shields.io/github/followers/sympact06?style=for-the-badge)
+
 
