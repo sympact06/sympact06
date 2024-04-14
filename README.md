@@ -1,27 +1,33 @@
-# Olivier (Sympact06)
+# Hello, I'm Olivier (Sympact06) 👋
 
-Hello there! 👋 I'm Olivier, better known in the digital realm as **Sympact06**. 
+## Welcome to My GitHub Profile!
 
-## About Me
+I am a passionate technologist with a broad set of skills in programming, design, and cybersecurity. My tech journey began in my teenage years, exploring the intricacies of software through the creation of cheats, and has since matured into a career focused on ethical hacking, software development, and dynamic web solutions.
 
-I am a multifaceted tech enthusiast with an array of skills that range from programming to design. My journey started off as a curious teenager, diving deep into the realm of cheats, and I've since evolved into a (semi)professional with a penchant for ethical hacking and software development. 
+### 🛡️ Certifications
+- **Certified Ethical Hacker (CEH) by Cisco**  
+  Explore my professional certifications on [Credly](https://www.credly.com/users/olivier-flentge/).
 
-🔐 **Certified Ethical Hacker by Cisco** - You can view my other certifications [here](https://www.credly.com/users/olivier-flentge/).
+### 🖥️ What I Do
 
-## What I Do
-
-- 🎨 **Adobe Photoshop**: Whether it's creating mesmerizing graphics or photo editing, I have a flair for making visuals come alive.
+- **Graphic Design**: Proficient in Adobe Photoshop, I specialize in crafting stunning visuals and engaging photo edits that captivate.
   
-- 💻 **Programming**: Proficient in C# and always keen on building robust applications that matter.
+- **Software Development**: Skilled in C#, I develop robust applications that address real-world problems.
   
-- 🌐 **Web Development**: Adept in PHP native apps with PDO. I believe in creating dynamic, secure, and scalable web solutions.
+- **Web Development**: Experienced in building secure, scalable web applications using native PHP with PDO.
+  
+- **Cybersecurity**: My background in creating cheats as a teenager has provided me with a unique perspective on software vulnerabilities, enhancing my approach to ethical hacking.
 
-- 🕹 **Past Experience**: Developed cheats during my teen years. While I've grown past that phase, it has immensely shaped my understanding of software behavior and potential vulnerabilities.
+### 🤝 Let's Connect
 
-## Let's Connect
-
-Feel free to reach out to me for collaborations, discussions, or just a casual chat about the tech world. Always happy to connect with fellow tech enthusiasts!
+I am always eager to collaborate and discuss innovative tech ideas. Feel free to connect with me for potential projects, professional discussions, or just a casual tech-related chat. 
 
 - ![GitHub followers](https://img.shields.io/github/followers/sympact06?style=for-the-badge)
 
+### 📬 How to Reach Me
+
+- **[LinkedIn]([https://www.linkedin.com/in/olivier-flentge](https://www.linkedin.com/in/oflentge/))**  
+- **[Diiscord](https://discord.com/users/761666048927465493)**  
+
+Thank you for visiting my profile. Let's innovate together!
 
